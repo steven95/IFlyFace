@@ -1,6 +1,6 @@
     Pod::Spec.new do |s|
     
-      s.name         = "JusiveIFlyFace"
+      s.name         = "IFlyFace"
 
       s.version      = "1.2.3"
 
@@ -14,7 +14,7 @@
 
       s.author       = { "Jusive" => "1345266022@qq.com" }
 
-      s.source      = { :git => "https://github.com/steven95/JusiveIFlyFace.git", :tag => "#{s.version}" }
+      s.source      = { :git => "https://github.com/steven95/IFlyFace.git", :tag => "#{s.version}" }
  
       s.dependency  'SVProgressHUD'
       
